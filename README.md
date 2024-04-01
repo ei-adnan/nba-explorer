@@ -1,5 +1,7 @@
 # NBA Player Stats Explorer
 
+## A web app developed using Python and Streamlit for scraping NBA player stats through data filtering.
+
 The NBA Players Stats Explorer is an interactive tool designed to allow users to explore and compare NBA player statistics.
 
 This project accesses data from the NBA Stats website and the NBA Stats API to create a dataset containing player information, team information, and various statistics (e.g., points, rebounds, assists, etc.). 
